@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.sirius.sample.basicfamily.feature_1.0.0.202012311324.jar" id="org.eclipse.sirius.sample.basicfamily.feature" version="1.0.0.202012311324">
+      <category name="BasicFamily"/>
+   </feature>
+   <category-def name="BasicFamily" label="Basic Family"/>
+</site>
