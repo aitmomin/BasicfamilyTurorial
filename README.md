@@ -6,7 +6,7 @@ including the creation of advanced editors and tools (ports, compartments, table
 
 <b>1. Domain Model Tutorial</b> <br>
 This tutorial explains how to create a Domain Model with Ecore Tools.<br>
-The created Domain Model defines basic concepts about families and is used by the following tutorial of this series.
+The created Domain Model defines basic concepts about families and is used by the following tutorial of this series.<br>
 <br>
 <b>2. Advanced Tutorial</b> <br>
 This tutorial explains how to use advanced features of Sirius.<br>
@@ -15,8 +15,8 @@ The instructions will guide you extending the result of the Sirius Starter Tutor
         - Graphical improvements: SVG images, styles customization<br>
         - Complexity management: layers, filters, validation rules, quick fixes<br>
         - Other kinds of representations: containers, bordered nodes, tables, navigation between representations<br>
-        - Extensions: Java services
-    <br>
+        - Extensions: Java services<br>
+<br>
 <b>3. Compartments Tutorial</b> <br>
 This tutorial explains how to create compartments.<br>
 The instructions will guide you creating a diagram using fixed and dynamic compartments to visualize the different kinds of relationships of a person:<br>
