@@ -27,10 +27,10 @@ The instructions will guide you creating a diagram using fixed and dynamic compa
 This tutorial starts from the result of the Starter Tutorial.<br>
 <br>
 <b>4. Update Site</b> <br>
-This tutorial explains how to create an update site in order to distribute a graphical modeling tool created with Eclipse Sirius.
+This tutorial explains how to create an update site in order to distribute a graphical modeling tool created with Eclipse Sirius.<br>
 <br>
 <b>Installing the solutions</b> <br>
 The solutions of this tutorial's parts are Eclipse projects that you can import into your workspace.<br>
 These projects can be easily installed from the provided examples (menu File > New > Example...).<br>
-If you don't find these projects from this wizard, please install the Sirius Samples feature from Sirius updatesite (see the list of Sirius udpate sites for the latest release).
-
+<br>
+If you don't find these projects from this wizard, please install the Sirius Samples feature from Sirius updatesite (see the list of Sirius udpate sites for the latest release).<br>
